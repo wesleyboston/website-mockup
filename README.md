@@ -15,6 +15,10 @@ Resources:
 - [Image Color Picker](https://imagecolorpicker.com/en/)
 - [MDN - \<a>: The Anchor element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
+## Desktop Mockup
+
 ![Desktop Mockup](./desktop-mockup.jpg)
+
+## Mobile Mockup
 
 ![Mobile Mockup](./mobile-mockup.jpg)
